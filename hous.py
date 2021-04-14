@@ -14,6 +14,9 @@ def drow_house(x, y, width, heigth):
 
 
 
+
+
+
 x, y = 100, 100
 width, heigth = 200, 200
 
