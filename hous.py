@@ -12,6 +12,8 @@ def drow_house(x, y, width, heigth):
     pass # do noting
 
 
+
+
 x, y = 100, 100
 width, heigth = 200, 200
 
