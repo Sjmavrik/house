@@ -1,4 +1,3 @@
-
 def drow_house(x, y, width, heigth):
     """
     фуркция рисует домик ширины width и высоты height от опортной точки (х, у)
@@ -8,13 +7,8 @@ def drow_house(x, y, width, heigth):
     width: полная ширина домика (фундамент или вылеты крыши включены)
     height: полная высота домика
     """
-    print ('рисую домик')
-    pass # do noting
-
-
-
-
-
+    print('рисую домик')
+    pass  # do noting
 
 
 x, y = 100, 100
