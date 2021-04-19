@@ -38,13 +38,14 @@ def draw_house_foundation(x, y, width, heigth):
     pass
 
 
-def draw_house_walls(x, y , walls_width, heigth):
+def draw_house_walls(x, y, walls_width, heigth):
     print('рисую стены')
     pass
 
 
-def draw_house_roof(x, y , width, heigth):
+def draw_house_roof(x, y, width, heigth):
     print('рисую крышу')
     pass
+
 
 main()
